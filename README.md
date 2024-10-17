@@ -3,7 +3,7 @@
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
 ### How to submit your code for review:
-
+ 
 - Fork and clone this repo
 - Create a new branch called answer
 - Checkout answer branch
