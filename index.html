@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="This application creates wordmaps on randomly-generated quotes">
+	<meta name="keywords" content="quotes, wordmaps">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Quote Word Map</title>
+
+	<!-- external CSS link -->
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<header>
+		<h1>Quote Wordmap Generator</h1>
+	</header>
+	<main>
+		<h2>Generate a random quote and wordmap: </h2>
+		<input type="button" value="Generate">
+		<p id="author"></p>
+		<p id="quote"></p>
+		
+		<iframe id="word-cloud" src=""></iframe>
+	</main>
+	<script type="module" src="js/main.js"></script>
+</body>
+
+</html>

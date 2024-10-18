@@ -1,0 +1,1 @@
+export const apiKeyQuote = '46v3wL9v1qHrYELRp29yow==QFH0mylcMTlRoEbQ';

@@ -1,0 +1,38 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+html {
+  font-size: 62.5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+header {
+  font-size: 3rem;
+}
+
+main {
+  font-size: 2rem;
+}
+iframe {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
